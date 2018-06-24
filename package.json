@@ -1,0 +1,26 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "Netron poc ",
+  "main": "view-browser.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eliraneliassy/netron-poc.git"
+  },
+  "keywords": [
+    "netorn"
+  ],
+  "author": "Eliran Eliassy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eliraneliassy/netron-poc/issues"
+  },
+  "homepage": "https://github.com/eliraneliassy/netron-poc#readme",
+  "dependencies": {
+    "local-web-server": "^2.5.2",
+    "serve-files": "^1.0.1"
+  }
+}
